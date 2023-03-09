@@ -1,0 +1,5 @@
+Je suis analyste de données spatiales et cartographe, et j'utilise les technologies les plus récentes pour présenter mes résultats de manière dynamique et interactive. Ma passion pour les données spatiales m'a conduit à développer des solutions innovantes en utilisant des outils tels que Streamlit et Leaflet. Grâce à ces technologies, je suis capable de créer des applications web interactives qui permettent à mes utilisateurs d'explorer mes cartes et mes données en temps réel.
+
+Mon objectif est de rendre mes données accessibles et compréhensibles pour tout le monde, grâce à une interface simple et intuitive. J'utilise des graphiques, des cartes et des visualisations pour illustrer mes résultats et faciliter leur interprétation.
+
+Je suis fier de contribuer à l'avancement de la science des données spatiales et de travailler sur des projets qui ont un impact réel sur notre environnement. Si vous avez des questions ou des commentaires sur mon travail, n'hésitez pas à me contacter.
